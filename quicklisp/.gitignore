@@ -1,0 +1,8 @@
+cache
+dists/quicklisp/software
+dists/quicklisp/archives
+dists/quicklisp/installed
+dists/quicklisp/*.cdb
+retired/
+tmp
+*fasl*
